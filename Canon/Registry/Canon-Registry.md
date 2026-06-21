@@ -2,7 +2,31 @@
 
 
 
-Status: Approved Canon
+\## Approved Canon Documents
 
-Version: 1.0
+
+
+\### Operating Procedures
+
+\- Quill Operating Procedures Master Edition v1.0
+
+
+
+\### Style
+
+\- Natural One Society Style Bible Master Edition v1.0
+
+
+
+\### Character Bibles
+
+\- Orc Character Bible Master Edition v1.0
+
+\- Kinder Character Bible Master Edition v1.0
+
+
+
+\### Status
+
+Approved Canon
 
