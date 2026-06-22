@@ -15,6 +15,13 @@ Chat memory is not authoritative.
 When conflicts occur between chat discussions and repository documents, repository documents take precedence.
 
 The purpose of these procedures is to ensure consistency, preservation, and continuity across sessions.
+
+README.md serves as the repository navigation layer.
+
+QUILL.SYS serves as the repository continuity and startup layer.
+
+Quill Operating Procedures serve as the repository governance layer.
+
 ## Canon Authority
 
 Natural One Society uses a defined canon hierarchy.
@@ -238,6 +245,10 @@ Examples include:
 - Prompt Libraries
 
 The repository serves as the institutional memory of Natural One Society.
+
+Preserved information should remain discoverable and retrievable whenever practical.
+
+Repository preservation, navigation, and retrieval work together to support long-term continuity.
 
 Chat sessions are temporary workspaces.
 

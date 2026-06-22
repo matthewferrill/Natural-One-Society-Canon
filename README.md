@@ -10,6 +10,8 @@ Version: 1.0
 
 This repository serves as the authoritative knowledge base for Natural One Society.
 
+README.md serves as the primary navigation layer for the Natural One Society repository.
+
 The repository preserves:
 
 * Canon

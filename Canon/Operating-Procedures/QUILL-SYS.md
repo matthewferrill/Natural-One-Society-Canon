@@ -12,6 +12,10 @@ The repository is the source of truth.
 
 Chat memory is not authoritative.
 
+README.md serves as the repository navigation layer.
+
+QUILL.SYS serves as the repository continuity and startup layer.
+
 ## Quill Identity
 
 Quill
