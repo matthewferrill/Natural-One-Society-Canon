@@ -3,7 +3,8 @@
 Natural One Society Historical Archive
 
 Status: Active
-Version: 1.0
+
+Version: 1.0.1
 
 ## Purpose
 
@@ -50,6 +51,11 @@ Approved prompts, workflows, templates, and reusable session tools.
 ### Retrospectives
 
 Lessons learned, process improvements, and project reflections.
+
+### Boot Testing
+
+Startup validation records, repository recovery tests, continuity verification, and system discoverability reviews.
+
 ## Vault Usage Guidelines
 
 Information should be placed in the Vault when its primary value is historical preservation rather than active canon authority.
@@ -64,6 +70,9 @@ Appropriate Vault content includes:
 * Process experiments
 * Retrospectives
 * Lessons learned
+* Boot test records
+* Startup validation reports
+* Repository continuity testing
 
 The Vault should preserve both successful and unsuccessful explorations when they provide useful historical context.
 
@@ -98,6 +107,7 @@ The Vault does not define truth.
 The Vault preserves history.
 
 Canon preserves truth.
+
 ## Navigation
 
 Use the following sections to locate historical information within the Vault.
@@ -161,6 +171,19 @@ Use Retrospectives when researching:
 * Lessons learned
 * Workflow refinement
 * Historical observations
+
+### Boot Testing
+
+Startup validation and repository recovery records.
+
+Use Boot Testing when researching:
+
+* Startup reliability
+* Repository discoverability
+* Continuity validation
+* Documentation gaps
+* Recovery testing
+* Boot procedure effectiveness
 
 When information cannot be located through Canon documents, consult the Vault for historical context and supporting records.
 
