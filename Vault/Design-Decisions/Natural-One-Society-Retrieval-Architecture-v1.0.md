@@ -294,3 +294,122 @@ Based on Boot Tests 000001 through 000004, Natural One Society has successfully 
 The repository is currently entering the Retrieve stage.
 
 Future repository development should focus on improving retrieval quality before pursuing more advanced reasoning capabilities.
+## Implementation Guidance
+
+Retrieval Architecture should be implemented incrementally.
+
+The preferred approach is:
+
+Identify Retrieval Failure
+
+↓
+
+Determine Root Cause
+
+↓
+
+Apply Smallest Effective Improvement
+
+↓
+
+Measure Improvement
+
+↓
+
+Repeat
+
+### Preferred Retrieval Improvements
+
+The following improvements are encouraged:
+
+* Registry enhancements
+* Cross-linking between related documents
+* Navigation improvements
+* Discovery improvements
+* Indexes
+* Reference tables
+* Retrieval testing
+* Canon source identification
+* Relationship mapping
+
+These improvements strengthen retrieval while preserving repository stability.
+
+### Discouraged Retrieval Improvements
+
+The following actions should generally be avoided unless a clear architectural need is demonstrated:
+
+* Large-scale repository restructuring
+* Frequent file relocation
+* Reorganization of approved repository architecture
+* Duplication of canon authority
+* Replacement of existing navigation systems
+* Creation of unnecessary registries
+* Creation of parallel authority systems
+
+Retrieval Architecture should improve access to information rather than increase repository complexity.
+
+### Retrieval Evaluation Process
+
+When a retrieval failure is identified, evaluate the failure using the following questions:
+
+1. Does the information exist?
+
+If no:
+
+Document creation may be required.
+
+2. Is the information discoverable?
+
+If no:
+
+Navigation improvements may be required.
+
+3. Is the information retrievable?
+
+If no:
+
+Cross-linking, indexing, or registry improvements may be required.
+
+4. Is the information authoritative?
+
+If no:
+
+The information should be treated as historical context rather than canon.
+
+### Future Retrieval Candidates
+
+Potential future retrieval improvements may include:
+
+* Character Relationship Registry
+* Repository Milestone Registry
+* Design Decision Index
+* Canon Event Registry
+* Retrieval Testing Framework
+
+These examples are not requirements.
+
+Future retrieval improvements should be justified by demonstrated retrieval needs rather than speculative design.
+
+## Outcome
+
+Retrieval Architecture v1.0 establishes retrieval as a formal repository concern.
+
+The repository will continue to prioritize:
+
+* Preservation
+* Authority
+* Stability
+
+while incrementally improving:
+
+* Discoverability
+* Knowledge recovery
+* Retrieval reliability
+
+The goal is not to replace the existing repository architecture.
+
+The goal is to make existing knowledge easier to find, verify, and use.
+
+---
+
+End of Document

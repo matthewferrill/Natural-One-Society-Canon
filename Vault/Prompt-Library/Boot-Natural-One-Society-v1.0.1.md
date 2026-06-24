@@ -1,6 +1,6 @@
 # Boot Natural One Society v1.0.1
 
-Status: Proposed
+Status: Approved
 
 Version: 1.0.1
 
@@ -8,28 +8,20 @@ Supersedes: Boot Natural One Society v1.0
 
 ## Purpose
 
-Initialize a new Natural One Society session and recover project context using repository documentation, historical records, and repository memory.
+Initialize a new Natural One Society session and recover project context using repository documentation.
 
-This prompt is intended to validate repository continuity and establish current project status without relying on prior chat memory.
+This prompt is intended to validate repository continuity and establish current project status without relying on prior chat history.
 
-A successful boot recovers both:
+This version incorporates lessons learned from Boot Test 000005 and expands recovery expectations beyond repository structure into historical continuity and project memory.
 
-* Repository Truth
-* Repository Context
+## Prompt
 
----
-
-## Repository
+Boot Natural One Society.
 
 Repository:
-
 https://github.com/matthewferrill/Natural-One-Society-Canon
 
 Follow the repository startup process.
-
----
-
-## Phase 1 – Recover Repository Truth
 
 Read and understand, in order:
 
@@ -54,7 +46,7 @@ Establish:
 * Active characters
 * Outstanding work items
 
-For each active character identify:
+For each active character, identify:
 
 * Character status
 * Character Bible status
@@ -69,15 +61,13 @@ Verify that Character Registry was successfully located and loaded.
 
 Identify any documents referenced by repository navigation that could not be located.
 
----
-
-## Phase 2 – Recover Repository Memory
+### Historical Recovery
 
 Repository documentation establishes truth.
 
 Historical records establish context.
 
-Review and leverage:
+When available, review and leverage:
 
 * Character History
 * Design Decisions
@@ -85,30 +75,24 @@ Review and leverage:
 * Chat History
 * Boot Testing Records
 
-Purpose:
+Recover when possible:
 
-Recover:
-
-* Character development
-* Relationship development
+* Character development history
+* Character relationships
 * Design rationale
 * Historical decisions
 * Repository evolution
 * Brand evolution
-* Natural One Society philosophy
 * Quill continuity
+* Natural One Society philosophy
 
 Historical records are not Canon.
 
 However, they are approved retrieval sources when Canon does not fully answer a question.
 
----
+### Retrieval Escalation Rule
 
-## Retrieval Escalation Rule
-
-When answering questions about Natural One Society:
-
-Do not conclude information is missing until all repository knowledge layers have been searched.
+Do not conclude information is missing until all applicable repository knowledge layers have been searched.
 
 Search order:
 
@@ -122,77 +106,25 @@ Search order:
 
 Only after all applicable sources have been reviewed should information be considered unavailable.
 
----
-
-## Chat History Status
+### Chat History Guidance
 
 Chat History is not archival clutter.
 
-Chat History contains:
+Chat History may contain:
 
 * Character formation
-* Story development
+* Relationship development
 * Design rationale
+* Historical decisions
 * Brand evolution
 * Repository architecture decisions
 * Quill development history
 
-Many important project truths may exist only in Chat History until formally canonized.
+Many important project details may exist only in Chat History until formally canonized.
 
-Chat History should be actively leveraged during continuity recovery.
+Actively leverage Chat History when performing continuity recovery.
 
----
-
-## Establish
-
-Recover and report:
-
-### Repository Structure
-
-* Repository organization
-* Canon structure
-* Vault structure
-* Documentation structure
-
-### Canon Authority
-
-* Authority hierarchy
-* Visual authority hierarchy
-* Character authority hierarchy
-
-### Character Status
-
-For each active character:
-
-* Current status
-* Character Bible status
-* Character History status
-* Asset status
-* Development status
-
-### Project Status
-
-Recover:
-
-* Current state of Natural One Society
-* Current priorities
-* Outstanding work items
-* Active architecture initiatives
-
-### Historical Recovery
-
-Recover:
-
-* Significant character discoveries
-* Significant project discoveries
-* Major architectural decisions
-* Important unresolved questions
-
----
-
-## Required Output
-
-Provide:
+Then provide:
 
 1. Startup Summary
 2. Repository Structure Summary
@@ -203,21 +135,15 @@ Provide:
 7. Documentation Gaps Discovered
 8. Recommended Next Steps
 
----
+Finally, perform a startup validation review and report:
 
-## Startup Validation Review
+* What loaded successfully
+* What was difficult to discover
+* What information appears missing
+* What documentation appears redundant
+* What repository improvements would improve startup reliability
 
-Report:
-
-### What loaded successfully
-
-### What was difficult to discover
-
-### What information appears missing
-
-### What documentation appears redundant
-
-### What repository improvements would improve startup reliability
+Also provide:
 
 ### Retrieval Quality Assessment
 
@@ -229,7 +155,9 @@ Evaluate:
 * Quill Recovery
 * Continuity Recovery
 
----
+Do not assume information not present in the repository.
+
+Repository documentation is the primary source of truth.
 
 ## Expected Outcome
 
@@ -238,18 +166,16 @@ A successful boot should:
 * Recover repository structure
 * Recover authority hierarchy
 * Recover Vault philosophy
-* Recover active characters
-* Recover current project status
-* Recover historical development knowledge
-* Recover significant character context
+* Discover active characters
+* Identify current project status
+* Recover significant historical context
+* Recover character development history when available
 * Recover Natural One Society identity
 * Recover Quill continuity
 * Identify documentation gaps
 * Recommend repository improvements
 
 A successful boot should recover not only what Natural One Society is, but also how it became what it is.
-
----
 
 ## Notes
 
